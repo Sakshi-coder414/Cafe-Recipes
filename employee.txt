@@ -1,0 +1,9 @@
+View or Edit Employee Details
+
+To view or edit individual employee records, follow these steps:
+
+Open any screen.
+From the navigation panel on the left, click Employee List.
+From the Employee List screen, locate the employee you wish to view or edit.
+Double-click on Employee Name to open the detail record.
+View or edit records in the Employee Detail screen.
